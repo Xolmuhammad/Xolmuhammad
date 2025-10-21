@@ -31,52 +31,14 @@
   <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47zgvaqz03cae4ugawpvo0ghsc4v2cq4u4zwd40ta&rid=giphy.gif&ct=s" width="300"/>
 </p>
 #___________________________
-#!/usr/bin/env node
+# Terminal UI Demo
 
-import React, { useState, useEffect } from 'react';
-import { render, Box, Text, useApp } from 'ink';
-
-// Terminal UI komponenti
-const App = () => {
-	const { exit } = useApp();
-	const [dots, setDots] = useState('');
-	const [progress, setProgress] = useState(0);
-	const [message, setMessage] = useState('Iltimos kuting');
-
-	useEffect(() => {
-		const interval = setInterval(() => {
-			setDots(prev => (prev.length < 3 ? prev + '.' : ''));
-
-			setProgress(prev => {
-				if (prev >= 100) {
-					clearInterval(interval);
-					setMessage('Tayyor!');
-					setTimeout(() => exit(), 1500);
-					return 100;
-				}
-				return prev + 5;
-			});
-		}, 200);
-
-		return () => clearInterval(interval);
-	}, []);
-
-	return (
-		<Box
-			borderStyle="round"
-			borderColor="cyan"
-			padding={1}
-			flexDirection="column"
-			alignItems="center"
-			width={40}
-		>
-			<Text color="green">{message}{dots}</Text>
-			<Text>Progress: {progress}%</Text>
-		</Box>
-	);
-};
-
-// Render qilish
-render(<App />);
+![Demo](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/USERNAME/REPO_NAME.git
+git push -u origin main
 
 
