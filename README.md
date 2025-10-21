@@ -30,4 +30,5 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47zgvaqz03cae4ugawpvo0ghsc4v2cq4u4zwd40ta&rid=giphy.gif&ct=s" width="300"/>
 </p>
+![Terminal UI Demo](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
