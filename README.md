@@ -34,6 +34,17 @@
 
 ![Demo](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
+# 📱 Instagram Reels Demo
+
+Quyidagi video orqali terminal UI animatsiya demo'sini ko'rishingiz mumkin:
+
+▶️ [Instagram Reels – Terminal UI Demo](https://www.instagram.com/reel/DOTq8nxiP7l/)
+
+<p align="center">
+  <a href="https://www.instagram.com/reel/DOTq8nxiP7l/">
+    <img src="https://img.shields.io/badge/Watch%20on%20Instagram-F77737?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Reel">
+  </a>
+</p>
 
 
 
