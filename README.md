@@ -15,9 +15,9 @@
 
 ## ⚡ Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[@Xolmuhammad]&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Xolmuhammad]&theme=tokyonight" alt="GitHub Streak" height="180px" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Metrics (Dinamik grafik)
 <p align="center">
-  <img src="https://metrics.lecoq.io/[YOUR_USERNAME]?template=classic&base=header,activity,community,repositories&languages=1&languages.sections=most-used&languages.details=percentage&config.timezone=Asia/Tashkent" width="100%" />
+  <img src="https://metrics.lecoq.io/[Xolmuhammad]?template=classic&base=header,activity,community,repositories&languages=1&languages.sections=most-used&languages.details=percentage&config.timezone=Asia/Tashkent" width="100%" />
 </p>
 
 ---
