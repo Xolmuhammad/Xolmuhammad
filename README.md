@@ -1,4 +1,4 @@
-# 👋 Salom, men [Ismingiz]!
+# 👋 Salom, men Xolmuhammadman!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=150&section=header&text=Python%20Developer&fontSize=50" />
@@ -42,6 +42,6 @@
 
 ## 📫 Bog'lanish
 <p align="left">
-<a href="https://t.me/[TELEGRAM_USER]"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:[EMAIL_MANZIL]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/+998999995052"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:yorievjorabek@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
