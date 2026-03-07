@@ -1,51 +1,41 @@
-<h1 align="center">👋 Salom, men Xolmuhammadman</h1>
+# 👋 Salom, Men [ Xolmuhammad ]!
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+### 👨‍💻 Men haqimda
+Men dasturlash olamiga qiziqib kelayotgan va asosan **Python** hamda **Web texnologiyalar** bilan shug'ullanadigan dasturchiman. Hozirda asosan Telegram botlar va sodda veb-saytlar yaratish ustida ishlayapman.
+
+- 🐍 **Python**: Yaxshi darajada tushunaman, Telegram botlar yaratishda tajribam bor.
+- 🌐 **Web Development**: HTML/CSS va JavaScript yordamida statik saytlar tuza olaman.
+- 🌱 Men hozirda Python bilimlarimni chuqurlashtirish va Full-stack darajasiga chiqish ustida ishlayapman.
 
 ---
 
-## 🌐 Mening ijtimoiy tarmoqlarim
+### 🛠 Texnologiyalar va Vositalar
+
+| Yo'nalish | Texnologiyalar |
+| :--- | :--- |
+| **Backend** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Botlar** | ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) |
+
+---
+
+### 📊 GitHub Statistikam
+
 <p align="center">
-  <a href="https://www.instagram.com/azerbaydjan_009?igsh=MXhhajF0MDJ1c2VjNA==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-azerbaydjan__009-orange?style=for-the-badge&logo=instagram" />
-  </a>
-  <a href="https://www.instagram.com/handsome_n_1?igsh=ZmhidWNyYnA2ajY1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-handsome__n__1-pink?style=for-the-badge&logo=instagram" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=[FOYDALANUVCHI_NOMINGIZ]&show_icons=true&theme=radical" alt="Statistika" />
 </p>
 
 ---
 
-## 📊 Statistikam
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 📫 Men bilan bog'lanish:
+* **Telegram**: [@Xolmuhammad]
+* **Email**: [yorievjorabek@gmail.com]
 
 ---
-
-<p align="center">✨ Mening profilimga tashrif buyurganingiz uchun rahmat ✨</p>
-
 <p align="center">
-  <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47zgvaqz03cae4ugawpvo0ghsc4v2cq4u4zwd40ta&rid=giphy.gif&ct=s" width="300"/>
+  <i>"Kod yozish - bu san'at, uni o'rganishdan to'xtamang!"</i>
 </p>
-
-
-![Demo](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-
-# 📱 Instagram Reels Demo
-
-Quyidagi video orqali terminal UI animatsiya demo'sini ko'rishingiz mumkin:
-
-▶️ [Instagram Reels – Terminal UI Demo](https://www.instagram.com/reel/DOTq8nxiP7l/)
-
-<p align="center">
-  <a href="https://www.instagram.com/reel/DOTq8nxiP7l/">
-    <img src="https://img.shields.io/badge/Watch%20on%20Instagram-F77737?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Reel">
-  </a>
-</p>
-
-
-
-
