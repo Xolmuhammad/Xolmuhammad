@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Metrics (Dinamik grafik)
 <p align="center">
-  <img src="https://metrics.lecoq.io/[@Xolmuhammad]?template=classic&base=header,activity,community,repositories&languages=1&languages.sections=most-used&languages.details=percentage&config.timezone=Asia/Tashkent" width="100%" />
+  <img src="https://metrics.lecoq.io/[@yorievjorabek@gmail.com]?template=classic&base=header,activity,community,repositories&languages=1&languages.sections=most-used&languages.details=percentage&config.timezone=Asia/Tashkent" width="100%" />
 </p>
 
 ---
