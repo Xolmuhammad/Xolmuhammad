@@ -6,7 +6,7 @@
 ### ⚠️ Shartimiz: Faqat shu yo'nalishda biror-bir o'quv markazni bitirganingiz haqida guvohnoma (sertifikat) bo'lishi kerak.
 
 ---
-
+# Men haqimda qisqacha!
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=150&section=header&text=Python%20Developer&fontSize=50" />
 </p>
@@ -40,10 +40,18 @@
 
 ---
 
+# 🚀 JAMOA TAKLIFI
+
+# FRONTEND VA BACKENDNI BILADIGAN FARG'ONALIK YOSHLARNI O'Z JAMOAMIZGA TAKLIF QILAMIZ!
+### ⚠️ DIQQAT: Faqat shu yo'nalishda biror-bir o'quv markazni bitirganingiz haqida guvohnoma (sertifikat) bo'lishi kerak.
+
+---
+
 ## 📊 GitHub Metrics (Dinamik grafik)
 <p align="center">
-  <img src="https://metrics.lecoq.io/[@yorievjorabek@gmail.com]?template=classic&base=header,activity,community,repositories&languages=1&languages.sections=most-used&languages.details=percentage&config.timezone=Asia/Tashkent" width="100%" />
+  <img src="https://metrics.lecoq.io" width="100%" />
 </p>
+
 
 ---
 
