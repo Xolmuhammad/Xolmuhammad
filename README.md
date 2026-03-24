@@ -40,14 +40,6 @@
 
 ---
 
-# 🚀 JAMOA TAKLIFI
-
-# FRONTEND VA BACKENDNI BILADIGAN FARG'ONALIK YOSHLARNI O'Z JAMOAMIZGA TAKLIF QILAMIZ!
-### ⚠️ DIQQAT: Faqat shu yo'nalishda biror-bir o'quv markazni bitirganingiz haqida guvohnoma (sertifikat) bo'lishi kerak.
-
----
-
-# Salom, bu mening profilim! 👋
 
 ### 📊 GitHub Statistikam
 
@@ -58,8 +50,6 @@
 ### 🔥 GitHub Streak (To'xtovsiz ishlash statistikasi)
 ![Streak Stat](https://github-readme-streak-stats.herokuapp.com/?user=Xolmuhammad&theme=black-ice)
 
----
-*Ushbu statistika avtomatik tarzda yangilanadi.*
 
 ---
 
