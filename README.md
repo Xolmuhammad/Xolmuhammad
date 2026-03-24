@@ -6,6 +6,14 @@
 ### ⚠️ Shartimiz: Faqat shu yo'nalishda biror-bir o'quv markazni bitirganingiz haqida guvohnoma (sertifikat) bo'lishi kerak.
 
 ---
+# Salom, bu mening profilim! 👋
+
+## 🚀 Jamoamizga taklif qilamiz!
+
+# FRONTEND VA BACKENDNI BILADIGAN FARG'ONALIK YOSHLARNI O'Z JAMOAMIZGA TAKLIF QILAMIZ!
+### ⚠️ Shartimiz: Faqat shu yo'nalishda biror-bir o'quv markazni bitirganingiz haqida guvohnoma (sertifikat) bo'lishi kerak.
+
+---
 
 ## 📊 Mening GitHub statistikalarim
 
@@ -17,4 +25,9 @@
 ---
 
 ### 📫 Men bilan bog'lanish:
-* **Instagram:** [@handsome_n_1]
+* **Telegram:** [@Sizning_Usernamiz]
+
+
+
+### 📫 Men bilan bog'lanish:
+* **Instagram:** @handsome_n_1
