@@ -47,11 +47,19 @@
 
 ---
 
-## 📊 GitHub Metrics (Dinamik grafik)
-<p align="center">
-  <img src="https://metrics.lecoq.io" width="100%" />
-</p>
+# Salom, bu mening profilim! 👋
 
+### 📊 GitHub Statistikam
+
+![Mening Statistikam](https://github-readme-stats.vercel.app/api?username=Xolmuhammad&show_icons=true&theme=radical)
+
+![Ishlatilgan tillar](https://github-readme-stats.vercel.app/api/top-langs/?username=Xolmuhammad&layout=compact&theme=vision-ary)
+
+### 🔥 GitHub Streak (To'xtovsiz ishlash statistikasi)
+![Streak Stat](https://github-readme-streak-stats.herokuapp.com/?user=Xolmuhammad&theme=black-ice)
+
+---
+*Ushbu statistika avtomatik tarzda yangilanadi.*
 
 ---
 
